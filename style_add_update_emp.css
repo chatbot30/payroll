@@ -1,0 +1,345 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+
+#Company_name{
+	position:absolute;
+	top:50px;
+	left:1110px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#emp_reg, #emp_up{
+	position:absolute;
+	top:70px;
+	left:300px;
+	color: black;
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#home{
+	position:absolute;
+	top:125px;
+	left:1135px;
+	color: black;
+	font-size: 20px;    	
+}
+#pd{
+	position:absolute;
+	top:155px;
+	left:280px;
+	color: black;
+	font-size: 20px;
+}
+#cd{
+	position:absolute;
+	top:395px;
+	left:280px;
+	color: black;
+	font-size: 20px;
+}
+#jd{
+	position:absolute;
+	top:155px;
+	left:730px;
+	color: black;
+	font-size: 20px;
+}
+
+#fn{
+	position:absolute;
+	top:230px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#ln{
+	position:absolute;
+	top:270px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#dob{
+	position:absolute;
+	top:310px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+
+#gn{
+	position:absolute;
+	top:350px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#id{
+	position:absolute;
+	top:190px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+
+}
+#mob{
+	position:absolute;
+	top:430px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#em{
+	position:absolute;
+	top:470px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#add{
+	position:absolute;
+	top:430px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#dept{
+	position:absolute;
+	top:190px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#desg{
+	position:absolute;
+	top:230px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#bsal{
+	position:absolute;
+	top:270px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#doj{
+	position:absolute;
+	top:310px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#firstname{
+	position:absolute;
+	top:230px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#lastname{
+	position:absolute;
+	top:270px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#day{
+	position:absolute;
+	top:310px;
+	left:450px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#month{
+	position:absolute;
+	top:310px;
+	left:510px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#year{
+	position:absolute;
+	top:310px;
+	left:570px;
+	width: 4%;
+	color: black;
+	font-size: 15px;
+}
+
+#male{
+	position:absolute;
+	top:350px;
+	left:430px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#m{
+	position:absolute;
+	top:350px;
+	left:475px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#female{
+	position:absolute;
+	top:350px;
+	left:500px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#f{
+	position:absolute;
+	top:350px;
+	left:545px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+
+#empid{
+	position:absolute;
+	top:190px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#empid1{
+	position:absolute;
+	top:190px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#mobile{
+	position:absolute;
+	top:430px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#email{
+	position:absolute;
+	top:470px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#address{
+	position:absolute;
+	top:430px;
+	left:900px;
+	width: 14%;
+	color: black;
+	font-size: 15px;
+	padding:10px;
+	border-radius: 5px;
+}
+#department{
+	position:absolute;
+	top:190px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#designation{
+	position:absolute;
+	top:230px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#basicsal{
+	position:absolute;
+	top:270px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#dayj{
+	position:absolute;
+	top:310px;
+	left:900px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#monthj{
+	position:absolute;
+	top:310px;
+	left:960px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#yearj{
+	position:absolute;
+	top:310px;
+	left:1020px;
+	width: 4%;
+	color: black;
+	font-size: 15px;
+}
+
+#register,#save_changes{
+	position:absolute;
+	top:570px;
+	left:500px;
+	height: 50px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#clear{
+	position:absolute;
+	top:570px;
+	left:640px;
+	height: 50px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#back{
+	position:absolute;
+	top:570px;
+	left:780px;
+	height: 50px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#error{
+	position:absolute;
+	top:530px;
+	left:330px;
+	width: 60%;
+	color: #ff0000;
+	font-size: 23px;
+	text-align : center;
+}

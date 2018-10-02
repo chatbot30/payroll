@@ -1,0 +1,329 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+
+#Company_name{
+	position:absolute;
+	top:50px;
+	left:1110px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#search1{
+	position:absolute;
+	top:70px;
+	left:300px;
+	color: black;
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#home{
+	position:absolute;
+	top:125px;
+	left:1135px;
+	color: black;
+	font-size: 20px;    	
+}
+
+
+#sbn{
+	position:absolute;
+	top:225px;
+	left:800px;
+	height: 30px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+#sbi{
+	position:absolute;
+	top:225px;
+	left:340px;
+	height: 30px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+#fn{
+	position:absolute;
+	top:160px;
+	left:640px;
+	color: black;
+	font-size: 16px;
+}
+#ln{
+	position:absolute;
+	top:160px;
+	left:900px;
+	color: black;
+	font-size: 16px;
+}
+#dob{
+	position:absolute;
+	top:280px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+
+#gn{
+	position:absolute;
+	top:320px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#id{
+	position:absolute;
+	top:160px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+
+}
+#mob{
+	position:absolute;
+	top:360px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#em{
+	position:absolute;
+	top:400px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#add{
+	position:absolute;
+	top:450px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#dept{
+	position:absolute;
+	top:280px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#desg{
+	position:absolute;
+	top:320px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#bsal{
+	position:absolute;
+	top:360px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#doj{
+	position:absolute;
+	top:400px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#firstname{
+	position:absolute;
+	top:180px;
+	left:640px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#lastname{
+	position:absolute;
+	top:180px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#day{
+	position:absolute;
+	top:280px;
+	left:450px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#month{
+	position:absolute;
+	top:280px;
+	left:490px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#year{
+	position:absolute;
+	top:280px;
+	left:530px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#male{
+	position:absolute;
+	top:320px;
+	left:430px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#m{
+	position:absolute;
+	top:320px;
+	left:475px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#female{
+	position:absolute;
+	top:320px;
+	left:500px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+#f{
+	position:absolute;
+	top:320px;
+	left:545px;
+	width: 5%;
+	color: black;
+	font-size: 15px;
+}
+
+
+#emp_id{
+	position:absolute;
+	top:180px;
+	left:300px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#mobile{
+	position:absolute;
+	top:360px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#email{
+	position:absolute;
+	top:400px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#address{
+	position:absolute;
+	top:450px;
+	left:450px;
+	width: 14%;
+	color: black;
+	font-size: 15px;
+	padding:10px;
+	border-radius: 5px;
+}
+#department{
+	position:absolute;
+	top:280px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#designation{
+	position:absolute;
+	top:320px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#basicsal{
+	position:absolute;
+	top:360px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#dayj{
+	position:absolute;
+	top:400px;
+	left:900px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#monthj{
+	position:absolute;
+	top:400px;
+	left:940px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#yearj{
+	position:absolute;
+	top:400px;
+	left:980px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+
+#back{
+	position:absolute;
+	top:470px;
+	left:800px;
+	height: 50px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#clear{
+	position:absolute;
+	top:470px;
+	left:930px;
+	height: 50px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#error{
+	position:absolute;
+	top:550px;
+	left:300px;
+	width: 60%;
+	color: #FF0000;
+	font-size: 23px;
+	text-align : center;
+
+}

@@ -1,0 +1,71 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+#Company_name{
+	position:absolute;
+	top:50px;
+	left:1110px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#home{
+	position:absolute;
+	top:125px;
+	left:1135px;
+	color: black;
+	font-size: 20px;    	
+}
+#view_emp{
+	position:absolute;
+	top:70px;
+	left:300px;
+	color: black;
+	font-size: 60px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.x{
+	display : block;
+	width : 100%;
+}
+.x thead, tbody{
+	display : block;
+}
+
+.x tbody{
+	height :330px;
+	overflow-y : scroll;
+}
+
+
+#abc{
+	position: absolute;
+	top : 180px;
+	left : 200px;
+}
+#abc th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+}
+#abc td, #abc th{
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+#abc tr{
+	background-color: #ddd;
+}
+#abc tr:hover{
+	background-color: #67c8ff;
+}
+.a{
+	background-color: white;
+	border: none;
+}
+

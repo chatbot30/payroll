@@ -1,0 +1,232 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+
+#Company_name{
+	position:absolute;
+	top:50px;
+	left:1110px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#del_emp{
+	position:absolute;
+	top:70px;
+	left:300px;
+	color: black;
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#home{
+	position:absolute;
+	top:125px;
+	left:1135px;
+	color: black;
+	font-size: 20px;    	
+}
+
+#id{
+	position:absolute;
+	top:180px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#search{
+	position:absolute;
+	top:180px;
+	left:680px;
+	height: 30px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+
+#fn{
+	position:absolute;
+	top:270px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#ln{
+	position:absolute;
+	top:310px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#mob{
+	position:absolute;
+	top:350px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+#em{
+	position:absolute;
+	top:390px;
+	left:300px;
+	color: black;
+	font-size: 16px;
+}
+
+#dept{
+	position:absolute;
+	top:270px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#desg{
+	position:absolute;
+	top:310px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#bsal{
+	position:absolute;
+	top:350px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+#doj{
+	position:absolute;
+	top:390px;
+	left:750px;
+	color: black;
+	font-size: 16px;
+}
+
+
+#emp_id{
+	position:absolute;
+	top:180px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#firstname{
+	position:absolute;
+	top:270px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#lastname{
+	position:absolute;
+	top:310px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#mobile{
+	position:absolute;
+	top:350px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#email{
+	position:absolute;
+	top:390px;
+	left:450px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+
+#department{
+	position:absolute;
+	top:270px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#designation{
+	position:absolute;
+	top:310px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#basicsal{
+	position:absolute;
+	top:350px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#dayj{
+	position:absolute;
+	top:390px;
+	left:900px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#monthj{
+	position:absolute;
+	top:390px;
+	left:940px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#yearj{
+	position:absolute;
+	top:390px;
+	left:980px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+#error{
+	position:absolute;
+	top:440px;
+	left:500px;
+	height: 70px;
+	width: 50%;
+	padding:  10px;
+	font-size: 23px;
+	color: #ff0000;
+}
+
+#delete{
+	position:absolute;
+	top:500px;
+	left:580px;
+	height: 40px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#back{
+	position:absolute;
+	top:500px;
+	left:730px;
+	height: 40px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+

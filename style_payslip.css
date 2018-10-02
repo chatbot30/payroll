@@ -1,0 +1,259 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+
+#Company_name{
+	position:absolute;
+	top:20px;
+	left:1110px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#payslip{
+	position:absolute;
+	top:40px;
+	left:300px;
+	color: black;
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+#home{
+	position:absolute;
+	top:80px;
+	left:1135px;
+	color: black;
+	font-size: 20px;    	
+}
+
+#search{
+	position:absolute;
+	top:150px;
+	left:1020px;
+	height: 30px;
+	width: 8%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+#id{
+	position:absolute;
+	top:130px;
+	left:300px;
+	color: black;
+	font-size: 15px;
+
+}
+#sbn{
+	position:absolute;
+	top:190px;
+	left:800px;
+	height: 30px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+#sbi{
+	position:absolute;
+	top:190px;
+	left:340px;
+	height: 30px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius:10px;
+}
+#fn{
+	position:absolute;
+	top:130px;
+	left:640px;
+	color: black;
+	font-size: 16px;
+}
+#ln{
+	position:absolute;
+	top:130px;
+	left:900px;
+	color: black;
+	font-size: 16px;
+}
+#firstname{
+	position:absolute;
+	top:150px;
+	left:640px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#lastname{
+	position:absolute;
+	top:150px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#department{
+	position:absolute;
+	top:260px;
+	left:400px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#designation{
+	position:absolute;
+	top:260px;
+	left:850px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#doj{
+	position:absolute;
+	top:300px;
+	left: 750px;
+	color: black;
+	font-size: 15px;
+}
+
+#dayj{
+	position:absolute;
+	top:300px;
+	left:900px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#monthj{
+	position:absolute;
+	top:300px;
+	left:940px;
+	width: 2%;
+	color: black;
+	font-size: 15px;
+}
+#yearj{
+	position:absolute;
+	top:300px;
+	left:980px;
+	width: 3%;
+	color: black;
+	font-size: 15px;
+}
+
+#emp_id{
+	position:absolute;
+	top:150px;
+	left:300px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#month{
+	position:absolute;
+	top:150px;
+	left:540px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+#year{
+	position:absolute;
+	top:150px;
+	left:780px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+
+#dept{
+	position:absolute;
+	top:260px;
+	left:300px;
+	color: black;
+	font-size: 15px;
+}
+#desg{
+	position:absolute;
+	top:260px;
+	left:750px;
+	color: black;
+	font-size: 15px;
+}
+
+#fdone{
+	position:absolute;
+	top:300px;
+	left:300px;
+	color: black;
+	font-size: 15px;
+}
+
+#fdtwo{
+	position:absolute;
+	top:300px;
+	left:750px;
+	color: black;
+	font-size: 15px;
+}
+
+#ns{
+	position:absolute;
+	top:490px;
+	left:770px;
+	width: 18%;
+	color: black;
+	font-size:18px;	
+
+}
+#net_sal{
+	position:absolute;
+	top:490px;
+	left:900px;
+	width: 15%;
+	color: black;
+	font-size: 15px;
+}
+
+#back{
+	position:absolute;
+	top:580px;
+	left:760px;
+	height: 40px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#generate{
+	position:absolute;
+	top:580px;
+	left:550px;
+	height: 40px;
+	width: 10%;
+	color: black;
+	font-size: 15px;
+	background:cyan;
+	border-radius: 10px;
+}
+#error{
+	position:absolute;
+	top:520px;
+	left:760px;
+	height: 40px;
+	width: 30%;
+	padding:  10px;
+	font-size: 20px;
+	color: #ff0000;
+	text-align: center;
+}
+
